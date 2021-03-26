@@ -1,0 +1,6 @@
+channel: edge
+addons:
+  hassiogooglebackup:
+    repository: samccauley/addon-hassiogooglebackup
+    target: hassiogooglebackup
+    image: samccauley/{arch}-googlebackup
