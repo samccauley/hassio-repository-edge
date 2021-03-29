@@ -1,5 +1,5 @@
-# hassio-repository
-Scott McCauley's repository of Hass[]().io add-ons.
+# hassio-repository-edge
+Scott McCauley's **edge** repository of Hass[]().io add-ons.
 
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
