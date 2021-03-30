@@ -1,1 +1,1 @@
-- Now including client_secret
+- Fixed readme logo
