@@ -1,1 +1,1 @@
-- Updated chg log
+- Now including client_secret
