@@ -1,1 +1,1 @@
-- Patched httplib2 and rsa
+- Release 1.7.8
