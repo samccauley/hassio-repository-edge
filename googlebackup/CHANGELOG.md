@@ -1,1 +1,1 @@
-- Release 1.7.8
+- Modify deploy.yaml
