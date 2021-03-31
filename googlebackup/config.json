@@ -1,6 +1,6 @@
 {
   "name": "Backup Hassio to Google Drive",
-  "version": "a73b4e2",
+  "version": "62ddfd9",
   "slug": "googlebackup",
   "description": "Backup hass.io snapshots to Google Drive.",
   "arch": [

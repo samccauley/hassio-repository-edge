@@ -1,1 +1,1 @@
-- Fixed readme logo
+- Patched httplib2 and rsa
